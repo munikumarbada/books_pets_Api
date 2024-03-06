@@ -1,0 +1,68 @@
+{
+"book":
+[
+    {
+        "BookId": 1,
+        "BookName": "C Langualksld",
+        "Author": "harilkldsf",
+        "Publication": "mkl jljl",
+        "Year": "2024-03-01T00:00:00"
+    },
+    {
+        "BookId": 2,
+        "BookName": "Bood",
+        "Author": "harilkldsf",
+        "Publication": "mkl jljl",
+        "Year": "2024-03-01T00:00:00"
+    },
+    {
+        "BookId": 3,
+        "BookName": "html",
+        "Author": "kkk",
+        "Publication": "uuuu",
+        "Year": "2024-06-19T00:00:00"
+    },
+    {
+        "BookId": 4,
+        "BookName": "Bood",
+        "Author": "harilkldsf",
+        "Publication": "mkl jljl",
+        "Year": "2024-03-01T00:00:00"
+    },
+    {
+        "BookId": 5,
+        "BookName": "JS",
+        "Author": "harilkldsf",
+        "Publication": "mkl jljl",
+        "Year": "2024-03-01T00:00:00"
+    },
+    {
+        "BookId": 6,
+        "BookName": "Angular",
+        "Author": "hari",
+        "Publication": "mkl jljl",
+        "Year": "2024-03-01T00:00:00"
+    },
+    {
+        "BookId": 7,
+        "BookName": "VB",
+        "Author": "hari",
+        "Publication": "mkl jljl",
+        "Year": "2024-03-01T00:00:00"
+    },
+    {
+        "BookId": 8,
+        "BookName": "C#",
+        "Author": "hari",
+        "Publication": "mkl jljl",
+        "Year": "2024-03-01T00:00:00"
+    },
+    {
+        "BookId": 9,
+        "BookName": "Python",
+        "Author": "hari",
+        "Publication": "mkl jljl",
+        "Year": "2024-03-01T00:00:00"
+    }
+]
+}
